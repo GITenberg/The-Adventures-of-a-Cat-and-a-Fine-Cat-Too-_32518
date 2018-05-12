@@ -1,0 +1,35 @@
+_repo: The-Adventures-of-a-Cat-and-a-Fine-Cat-Too-_32518
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: archival
+  image_path: 32518-h/images/cover-s.jpg
+creator:
+  author:
+    agent_name: Elwes, Alfred
+    deathdate: 1888
+    gutenberg_agent_id: '9501'
+    url: http://www.gutenberg.org/2009/agents/9501
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2010-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Adventures of a Cat, and a Fine Cat Too!
+url: http://www.gutenberg.org/ebooks/32518
